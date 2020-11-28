@@ -2,15 +2,6 @@
 
 We are a game studio that focuses on making entertaining games for everyone to enjoy. This is made possible by the wide variety of experience across our entire development team.
 
-# Team
-- **Celkro** - Project Manager
-- **Jhxan** - Lead Developer
-- **Official_MrBob101** - Programmer
-- **Aerozia** - Builder
-- **kiven10** - Modeller
-- **pyskshi** - Modeller, Builder & Graphic Artist
-- **joelangius1234** - Community Manager
-
 # Social
 - [Discord](https://discord.gg/fBgMbvR)
 
